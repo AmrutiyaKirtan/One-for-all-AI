@@ -1,0 +1,24 @@
+# Chatterbox TTS Requirements
+# Install these packages to enable advanced TTS functionality
+
+# Core ML dependencies
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Chatterbox TTS
+chatterbox-tts
+
+# Audio playback (choose one or both)
+pygame>=2.0.0
+playsound>=1.3.0
+
+# Existing project dependencies
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+pyaudio>=0.2.11
+
+# GUI dependencies
+tkinter  # Usually included with Python
+
+# Optional: For better audio processing
+numpy>=1.21.0
