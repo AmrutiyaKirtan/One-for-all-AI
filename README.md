@@ -1,5 +1,3 @@
-# AI Assistant - Phase 1
-
 A cross-platform AI assistant with voice recognition and text-to-speech capabilities, designed to handle complex multi-layered tasks.
 
 ## Features
